@@ -7,4 +7,5 @@
 * С помощью transition ссылкам добавлены анимации.
 * Для позиционирования блоков и элементов были использованы flex и grid.
 
-
+GitHub Pages:
+https://rubyroido.github.io/russian-travel/index.html
