@@ -1,0 +1,12 @@
+.place__text {
+  display: grid;
+  gap: 26px;
+  align-self: flex-start;
+}
+
+@media screen and (max-width: 900px) {
+  .place__text {
+    gap: 25px;
+  }
+}
+
